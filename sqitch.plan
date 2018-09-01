@@ -7,3 +7,4 @@ init_s02_cfdis 2018-09-01T18:57:23Z Carlos Hernandez <carlos.hernandez@connectit
 init_s02_cfdi_taxes 2018-09-01T19:04:20Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add cfdi_taxes table
 init_s02_cfdi_payments [init_s02_cfdis] 2018-09-01T19:12:53Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add cfdi_payments table
 init_s02_cfdi_payment_details [init_s02_cfdi_payments] 2018-09-01T19:16:28Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add cfdi_payment_details table
+init_s02_related_cfdi [init_s02_cfdis] 2018-09-01T19:20:17Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add related_cfdi table
