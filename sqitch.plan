@@ -13,3 +13,4 @@ init_s04_emitters 2018-09-01T19:32:03Z Carlos Hernandez <carlos.hernandez@connec
 init_s04_tmp_emitters 2018-09-01T19:33:11Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add tmp_emitters table
 init_s05_alert_email_responses 2018-09-01T19:34:44Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add alert_email_responses table
 init_s05_whitelist_emitters 2018-09-01T19:37:06Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add whitelist_emitters table
+init_s05_whitelist_receptors 2018-09-01T19:38:14Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add whitelist_receptors table
