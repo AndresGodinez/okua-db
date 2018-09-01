@@ -1,3 +1,5 @@
 %syntax-version=1.0.0
 %project=okua
+%uri=http://gl.connectit.com.mx:3100/cit/okua-db
 
+init_s01_users 2018-09-01T18:21:36Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Initializing s01_users table
