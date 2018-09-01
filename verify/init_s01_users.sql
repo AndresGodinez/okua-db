@@ -2,6 +2,6 @@
 
 BEGIN;
 
-select * from s01_users;
+select * from s01_users limit 1;
 
 ROLLBACK;
