@@ -6,3 +6,7 @@
 	target = [target name]
 	# registry = sqitch
 	# client = /usr/bin/mysql
+[deploy]
+  verify = true
+[rebase]
+  verify = true
