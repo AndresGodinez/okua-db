@@ -10,3 +10,4 @@ init_s02_cfdi_payment_details [init_s02_cfdi_payments] 2018-09-01T19:16:28Z Carl
 init_s02_related_cfdi [init_s02_cfdis] 2018-09-01T19:20:17Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add related_cfdi table
 init_s03_cfdi_uses 2018-09-01T19:22:28Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add cfdi_uses table and initial data
 init_s04_emitters 2018-09-01T19:32:03Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add emitters table
+init_s04_tmp_emitters 2018-09-01T19:33:11Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add tmp_emitters table
