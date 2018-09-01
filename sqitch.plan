@@ -5,3 +5,4 @@
 init_s01_users 2018-09-01T18:21:36Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Initializing s01_users table
 init_s02_cfdis 2018-09-01T18:57:23Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add cfdis table
 init_s02_cfdi_taxes 2018-09-01T19:04:20Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add cfdi_taxes table
+init_s02_cfdi_payments [init_s02_cfdis] 2018-09-01T19:12:53Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add cfdi_payments table
