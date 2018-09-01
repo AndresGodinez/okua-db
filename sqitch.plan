@@ -15,3 +15,4 @@ init_s05_alert_email_responses 2018-09-01T19:34:44Z Carlos Hernandez <carlos.her
 init_s05_whitelist_emitters 2018-09-01T19:37:06Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add whitelist_emitters table
 init_s05_whitelist_receptors 2018-09-01T19:38:14Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add whitelist_receptors table
 init_l01_process_errors 2018-09-01T19:40:13Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add process_errors logger table
+init_l01_process_warnings [init_s02_cfdis] 2018-09-01T19:42:55Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add process_errors logger table
