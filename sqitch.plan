@@ -16,3 +16,4 @@ init_s05_whitelist_emitters 2018-09-01T19:37:06Z Carlos Hernandez <carlos.hernan
 init_s05_whitelist_receptors 2018-09-01T19:38:14Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add whitelist_receptors table
 init_l01_process_errors 2018-09-01T19:40:13Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add process_errors logger table
 init_l01_process_warnings [init_s02_cfdis] 2018-09-01T19:42:55Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add process_errors logger table
+change_s02_cfdi_taxes_cfdi_id_column 2018-09-03T15:19:26Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add bill_info_id column for cfdi_id
