@@ -4,6 +4,6 @@ BEGIN;
 
 SELECT sqitch.checkit(COUNT(INDEX_NAME), 'NO INDEX')
   FROM INFORMATION_SCHEMA.STATISTICS
-  WHERE INDEX_NAME = 's05_alert_email_responses_code_index';
+  WHERE INDEX_NAME = 's05_alert_email_responses_code_uindex';
 
 ROLLBACK;
