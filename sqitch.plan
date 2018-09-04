@@ -20,3 +20,4 @@ change_s02_cfdi_taxes_cfdi_id_column 2018-09-03T15:19:26Z Carlos Hernandez <carl
 create_view_cfdi_emitters 2018-09-03T15:35:40Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Create view for cfdi emitters (clients)
 001_create_unique_const_alert_email_responses_code 2018-09-04T00:40:37Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Create unique constraint at alert_email_responses table on code column
 002_create_unique_const_emitters_rfc 2018-09-04T01:09:10Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Create unique constraint at emitters table on rfc column
+003_create_unique_const_tmp_emitters_rfc [init_s04_tmp_emitters] 2018-09-04T01:16:01Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Create unique constraint at tmp_emitters table on rfc column
