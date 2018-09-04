@@ -12,8 +12,8 @@ init_s03_cfdi_uses 2018-09-01T19:22:28Z Carlos Hernandez <carlos.hernandez@conne
 init_s04_emitters 2018-09-01T19:32:03Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add emitters table
 init_s04_tmp_emitters 2018-09-01T19:33:11Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add tmp_emitters table
 init_s05_alert_email_responses 2018-09-01T19:34:44Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add alert_email_responses table
-init_s05_whitelist_emitters 2018-09-01T19:37:06Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add whitelist_emitters table
-init_s05_whitelist_receptors 2018-09-01T19:38:14Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add whitelist_receptors table
+init_s05_filter_emitters 2018-09-01T19:37:06Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add filter_emitters table
+init_s05_filter_receptors 2018-09-01T19:38:14Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add filter_receptors table
 init_l01_process_errors 2018-09-01T19:40:13Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add process_errors logger table
 init_l01_process_warnings [init_s02_cfdis] 2018-09-01T19:42:55Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add process_errors logger table
 change_s02_cfdi_taxes_cfdi_id_column 2018-09-03T15:19:26Z Carlos Hernandez <carlos.hernandez@connectit.com.mx> # Add bill_info_id column for cfdi_id
